@@ -4,3 +4,4 @@ Gitを用いてバージョン管理を行います。
 ・git commit
 ・git rm
 ・git status
+・git diff
